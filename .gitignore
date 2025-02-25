@@ -1,2 +1,14 @@
-# Ignore environment variable files
+# Virtual Environment
+rag/
+venv/
+env/
+.env/
+.venv/
+*.pyc
+__pycache__/
+
+# Environment variables
 .env
+
+# Other common files to ignore
+.DS_Store
